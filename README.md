@@ -1,1 +1,2 @@
 # EffortLogger2.0
+# This effort logger utilizes PopSQL as a database to store user credentials and project info. Backlogs are created and populated with user stories. Planning poker sessions are then run for each user story within the backlogs. Time is tracked as users begin working on completing these user stories. As more projects are completed/timed, the planning poker sessions become more accurate at estimating effort required.
