@@ -1,3 +1,4 @@
+// Author - Baylor Harrison
 package application;
 
 import javafx.animation.KeyFrame;
