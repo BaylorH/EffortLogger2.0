@@ -1,4 +1,4 @@
-//Author - Armaani Gonzalez
+// Author - Armaani Gonzalez
 package application;
 
 import javafx.application.Application;
