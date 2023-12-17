@@ -1,4 +1,4 @@
-//Author - Baylor Harrison
+// Author - Baylor Harrison
 package application;
 
 import java.util.HashSet;
