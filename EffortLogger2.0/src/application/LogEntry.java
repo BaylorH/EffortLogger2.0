@@ -1,3 +1,4 @@
+// Author - Alexander Aviles
 package application;
 
 public class LogEntry {
