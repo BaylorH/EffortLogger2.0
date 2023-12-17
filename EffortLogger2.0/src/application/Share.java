@@ -1,3 +1,4 @@
+// Authors - Baylor Harrison and Brian Amen
 package application;
 
 import javafx.application.Application;
@@ -25,7 +26,7 @@ public class Share extends Application {
 		Label headLabel = new Label("Planning Poker");
 		Font font = Font.font(24);
 		headLabel.setFont(font);
-		Label estimatedPointLabel = new Label(" Estimated story point: " + db.getValue());//turn into actual integer value with label
+		Label estimatedPointLabel = new Label("Estimated story point: " + db.getValue());//turn into actual integer value with label
 		Label actualStoryPoint = new Label("Average Story Point: " + db.averageValue());;
 		font = Font.font(12);
 		estimatedPointLabel.setFont(font);
