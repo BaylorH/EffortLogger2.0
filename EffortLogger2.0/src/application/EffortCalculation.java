@@ -1,4 +1,4 @@
-//Author - Alexander Aviles
+// Author - Alexander Aviles
 package application;
 
 public class EffortCalculation {
