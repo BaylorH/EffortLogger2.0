@@ -1,4 +1,4 @@
-//Authors - Alexander Aviles, Armaani Gonzalez, Baylor Harrison, Brian Amen, Alexander Aviles
+// Authors - Alexander Aviles, Armaani Gonzalez, Baylor Harrison, Brian Amen, Alexander Aviles
 package application;
 
 import java.sql.*;
